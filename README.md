@@ -19,7 +19,7 @@
 1. Return back to your repository after commiting the "_config.yml" file.
 2. Edit the README.md file by tapping the pencil icon.
 3. Then after, start making the contents of the website.
-4. Here is a [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) if you have trouble with making the contents.
+4. Here is a [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) if you have trouble with making the contents like the basic syntax.
 5. Below is an example. (Similar to what you're going to do)
 ![An example of what it should look like.](https://i.stack.imgur.com/ZQpRi.png)
 
