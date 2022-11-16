@@ -9,7 +9,7 @@
 ***What to do:***
 1. Open your repository then tap "Add File" and "Create new file".
 2. Rename the file to "_config.yml".
-3. After that, choose a template from github pages. (https://github.com/pages-themes)
+3. After that, choose a template from [GitHub Pages](https://github.com/pages-themes).
 4. In the "Edit file", type "theme: jekyll-theme-name of theme". (*theme: jekyll-theme-merlot*)
 5. Then commit change at the very bottom to finish making the theme.
 
@@ -21,3 +21,7 @@
 3. Then after, start making the contents of the website.
 4. Below in an example. (Similar to what you're going to do)
 ![An example of what it should look like.](https://i.stack.imgur.com/ZQpRi.png)
+
+## Words of Inspiration
+>“Being soaked alone is cold. Being soaked with your best friend is an adventure.”
+― Emily Wing Smith
