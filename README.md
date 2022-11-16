@@ -12,9 +12,12 @@
 3. After that, choose a template from github pages. (https://github.com/pages-themes)
 4. In the "Edit file", type "theme: jekyll-theme-name of theme". (*theme: jekyll-theme-merlot*)
 5. Then commit change at the very bottom to finish making the theme.
+
 ---
+
 ***Editing the website:***
 1. Return back to your repository after commiting the "_config.yml" file.
 2. Edit the README.md file by tapping the pencil icon.
 3. Then after, start making the contents of the website.
+4. Below in an example. (Similar to what you're going to do)
 ![An example of what it should look like.](https://i.stack.imgur.com/ZQpRi.png)
