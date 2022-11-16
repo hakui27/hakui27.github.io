@@ -7,16 +7,16 @@
 4. Then create repository.
 
 ***What to do:***
-1. Open your repository then tap "Add File" and "Create new file".
-2. Rename the file to "_config.yml".
-3. After that, choose a template from [GitHub Pages](https://github.com/pages-themes).
-4. In the "Edit file", type "theme: jekyll-theme-name of theme". (*theme: jekyll-theme-merlot*)
-5. Then commit change at the very bottom to finish making the theme.
+> 1. Open your repository then tap "Add File" and "Create new file".
+> 2. Rename the file to "_config.yml".
+> 3. After that, choose a template from [GitHub Pages](https://github.com/pages-themes).
+> 4. In the "Edit file", type "theme: jekyll-theme-name of theme". (`theme: jekyll-theme-merlot`)
+> 5. Then commit change at the very bottom to finish making the theme.
 
 ---
 
 ***Editing the website:***
-1. Return back to your repository after commiting the "_config.yml" file.
+1. Return back to your repository after you commit the "_config.yml" file.
 2. Edit the README.md file by tapping the pencil icon.
 3. Then after, start making the contents of the website.
 4. Here is a [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) if you have trouble with making the contents like the basic syntax.
