@@ -23,5 +23,5 @@
 ![An example of what it should look like.](https://i.stack.imgur.com/ZQpRi.png)
 
 ## Words of Inspiration
->“Being soaked alone is cold. Being soaked with your best friend is an adventure.”
-― Emily Wing Smith
+> "You may be the only person left who believes in you, but it’s enough. It takes just one star to pierce a universe of darkness. Never give up.”
+― Richelle E. Goodrich
