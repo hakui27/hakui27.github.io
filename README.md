@@ -8,6 +8,8 @@
 
 ***What to do:***
 
+[What is GitHub Pages?](https://www.youtube.com/watch?v=2MsN8gpT6jY)
+
 ``` 
 1. Open your repository then tap "Add File" and "Create new file".
 
